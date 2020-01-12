@@ -7,12 +7,24 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Best Fit Trip
+
+This project will be an app for travelers looking to optimize their travel time by ordering their destinations by shortest distance and providing directions for each trip on a map. Users will be able to save and edit their trips within their own account pages. 
+
 ### Features
-Include Features here
+User registration/login - Users will be able to registers their own accounts. 
+Optimize trips with up to 10 destinations - Users will input locations and the app will output a table showing the best destination order for that trip. The table will include buttons on each row that provide directions from Google. 
+Mapped destinations - All destinations will be displayed as points on Google's maps. 
+Save/Edit trips - Users will be able to save and edit their trips within their account page. 
+
 ### Technologies
-Include Technologies here
+Asp.Net/C#
+Javascript
+MySQL/LINQ
+Google Maps API
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+I'll have to learn how to use Javascript in order to best utilize all of Google Map's API features. This includes utilizing the maps to display locations and produce directions, as well as using the distance matrix service to calculate and optimize travel time between multiple destinations. 
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/eLpVfNkl/liftoff
