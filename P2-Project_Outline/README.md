@@ -13,14 +13,20 @@ This project will be an app for travelers looking to optimize their travel time 
 
 ### Features
 User registration/login - Users will be able to registers their own accounts. 
+
 Optimize trips with up to 10 destinations - Users will input locations and the app will output a table showing the best destination order for that trip. The table will include buttons on each row that provide directions from Google. 
+
 Mapped destinations - All destinations will be displayed as points on Google's maps. 
+
 Save/Edit trips - Users will be able to save and edit their trips within their account page. 
 
 ### Technologies
 Asp.Net/C#
+
 Javascript
+
 MySQL/LINQ
+
 Google Maps API
 
 ### What I'll Have to Learn
